@@ -1,5 +1,8 @@
 # -HTML-CSS-Javascript-  
-  <img width="1196" alt="up down" src="https://user-images.githubusercontent.com/95417144/184604982-d3767fae-7dea-41d0-bec8-97709442667a.png">
+
+  <img width="1196" alt="up down" src="https://user-images.githubusercontent.com/95417144/184604982-d3767fae-7dea-41d0-bec8-97709442667a.png">  
+    
+  -netlify 배포 url =https://chanhee-html-css-js1.netlify.app
   
   -HTML-CSS-Javascript 를 이용한 up & down 게임  
     
